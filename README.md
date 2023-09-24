@@ -15,12 +15,12 @@ This SQL project focuses on analyzing financial data related to credit card tran
 
 ### General Task queries
 
-1. Total amount spent by everyone.
-2. Highest total expenditure.
-3. Lowest total expenditure.
-4. Highest average expenditure
-5. Lowest average expenditure.
-6. For which expense was the platinum card used most.
+- Total amount spent by everyone.
+- Highest total expenditure.
+- Lowest total expenditure.
+- Highest average expenditure
+- Lowest average expenditure.
+- For which expense was the platinum card used most.
 
 ### Total Expense Analysis
 
