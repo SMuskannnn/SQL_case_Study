@@ -15,8 +15,8 @@ This SQL project focuses on analyzing financial data related to credit card tran
 
 ### General Task queries
 
--Total amount spent by everyone.
--Highest total expenditure.
+1. Total amount spent by everyone.
+2. Highest total expenditure.
 3. Lowest total expenditure.
 4. Highest average expenditure
 5. Lowest average expenditure.
